@@ -18,15 +18,13 @@ import net.dv8tion.jda.api.utils.cache.CacheFlag;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import java.awt.*;
-import java.io.File;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
 @SpringBootApplication
 public class BestieApplication {
 
-    public static JDA jda;
+    private static JDA jda;
 
     public static void main(String[] args) {
         SpringApplication.run(BestieApplication.class, args);
