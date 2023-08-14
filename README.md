@@ -1,6 +1,6 @@
 # BestieIDE
 
-## Hello I am Beastie.
+## Hello I am Bestie.
 ### Here is a little tutorial:
 * To create new project use '/create_project' command 
 * To create any file in your project use '/create_file' command in terminal channel 
